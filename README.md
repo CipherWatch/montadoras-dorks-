@@ -70,7 +70,7 @@ O servidor sobe em `http://0.0.0.0:8080`.
 
 ## 🔍 Como usar
 
-1. Escolha a **palavra-chave** (VIN, PECAS, etc.).
+1. Escolha a **palavra-chave** (VIN, PEÇAS, etc.).
 2. Preencha os campos (termo, frase exata, site/montadora, filtros...).
 3. Veja a **dork** se montar na pré-visualização.
 4. Clique em **Salvar** para guardar, ou **Buscar no Google** para pesquisar.
